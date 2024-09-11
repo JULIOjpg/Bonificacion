@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+.divp{
+    width: 600px;
+    margin: auto;
+}
+.fleximagenesCarrucel{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.divh{
+    text-align:left;
+    color: gray;
+    width: 400px;
+  
+   
+}
+.div,p,h3{
+    color: gray;
+}
+.a{
+    color: red;
+}
+.label{
+    color: red;
+}
+.divj{
+    text-align:left;
+}
+.margenes{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.divseparacion{
+    width: 700px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+article{
+    margin-right: 10px;
+}
